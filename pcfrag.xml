@@ -1,0 +1,19 @@
+<FragScapeModel>
+ <Params workspace="D:/0_My_Analysis/Landscape_Wurzburg/Frag_PC" resolution="10.0" extentLayer="Input/PC.shp" crs="epsg:25832" mode="1"/>
+ <Landuse in_layer="Input/LC22.tif">
+  <LanduseFieldItem   value="1"   description=""   toSelect="False"/>
+  <LanduseFieldItem   value="2"   description=""   toSelect="True"/>
+  <LanduseFieldItem   value="4"   description=""   toSelect="False"/>
+  <LanduseFieldItem   value="5"   description=""   toSelect="False"/>
+  <LanduseFieldItem   value="7"   description=""   toSelect="False"/>
+  <LanduseFieldItem   value="8"   description=""   toSelect="False"/>
+  <LanduseFieldItem   value="11"   description=""   toSelect="False"/>
+ </Landuse>
+ <FragmModel>
+  <FragmItem   INPUT="Input/COLAND18.shp"   SELECT_EXPR=" &quot;LABEL2&quot; = 'Forests' "   BUFFER_EXPR=""   NAME="forest18"   FRAGM="False"/>
+  <FragmItem   INPUT="Input/Places.shp"   SELECT_EXPR=" &quot;type&quot; = 'forest'"   BUFFER_EXPR=""   NAME="forestOSM"   FRAGM="False"/>
+  <FragmItem   INPUT="Input/Roar.shp"   SELECT_EXPR=" &quot;osm_type&quot; = 'way' "   BUFFER_EXPR=""   NAME="road"   FRAGM="True"/>
+ </FragmModel>
+ <Reporting input_layer="outputs/landuseFragm.tif" include_cbc="True" unit="3" reporting_layer="Input/PC.shp" output="Input/pcfrag.gpkg">
+ </Reporting>
+</FragScapeModel>
