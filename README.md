@@ -58,15 +58,15 @@ For further information on these indices, refer to Jaeger (2000) or consult the 
 
 ### Conclusions
 
-        *Urban expansion in the district has unsurprisingly impacted the natural forest types within the region.
+        1) Urban expansion in the district has unsurprisingly impacted the natural forest types within the region.
 
-        *In the Rimpar, Guttenberger Wald, and Irtenberger postal zones, forest fragments exhibit the least isolation, with Rimpar hosting one of the largest forest patches in the area.
+        2) In the Rimpar, Guttenberger Wald, and Irtenberger postal zones, forest fragments exhibit the least isolation, with Rimpar hosting one of the largest forest patches in the area.
 
-        *Despite efforts in urban tree management, the town of Würzburg experiences significant forest fragmentation across most of its zones.
+        3) Despite efforts in urban tree management, the town of Würzburg experiences significant forest fragmentation across most of its zones.
 
-        *From a natural perspective, it is evident that forests along riverbanks and wetlands have been substantially affected. This poses a risk to the hydrological regulation within the landscape and disrupts the exchange of material flows within these crucial connectivity elements.
+        4) From a natural perspective, it is evident that forests along riverbanks and wetlands have been substantially affected. This poses a risk to the hydrological regulation within the landscape and disrupts the exchange of material flows within these crucial connectivity elements.
 
-        *Beech and pine forests, however, continue to maintain satisfactory connectivity between their respective patches.
+        5) Beech and pine forests, however, continue to maintain satisfactory connectivity between their respective patches.
 
 
 
