@@ -33,17 +33,17 @@ For further information on these indices, refer to Jaeger (2000) or consult the 
 
 ![Legend of potential vegetation unit types present in Würzburg](pictures/table.jpg)
 
-![The effective mesh size (m or MSIZ) ](maps/MSIZ_Veg_Complete.tif)
+![The effective mesh size (m or MSIZ) ](maps/MSIZ_Veg_Complete.png)
 
-![The degree of coherence (C or COH)](maps/COH_Veg_Complete.tif)
+![The degree of coherence (C or COH)](maps/COH_Veg_Complete.png)
 
-![The splitting index (S or SP LI)](maps/SPLIT_Veg_Complete.tif)
+![The splitting index (S or SP LI)](maps/SPLIT_Veg_Complete.png)
 
-![The effective mesh size (m or MSIZ)](maps/MSIZ_PC.tif)
+![The effective mesh size (m or MSIZ)](maps/MSIZ_PC.png)
 
-![The degree of coherence (C or COH)](maps/COH_PC.tif)
+![The degree of coherence (C or COH)](maps/COH_PC.png)
 
-![The splitting index (S or SP LI)](maps/SPLIT_PC.tif)
+![The splitting index (S or SP LI)](maps/SPLIT_PC.png)
 
 
 
